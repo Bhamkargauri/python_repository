@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gauri Bhamkar</h1>
-<h3 align="center">A passionate frontend developer, Web developer, Python and Java Developer from India</h3>
+<h3 align="center">A passionate frontend developer, Web developer from India</h3>
+
+- 🔭 I’m currently working on **I am currently in between projects and taking some time to focus on enhancing my skills. I’ve been exploring new technologies**
+
+- 🌱 I’m currently learning **I'm currently working on a project related to e-commerce, while also learning Python.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/gauri09](https://github.com/gauri09)
 
 - 📫 How to reach me **gauribhamkar09@gmail.com**
-
-- ⚡ Fun fact **I am Quick learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
