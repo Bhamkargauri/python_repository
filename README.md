@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gauri Bhamkar</h1>
-<h3 align="center">A passionate frontend developer, Web developer from India</h3>
+<h3 align="center">A passionate frontend developer, Web developer, Python and Java Developer from India</h3>
 
 - 📫 How to reach me **gauribhamkar09@gmail.com**
 
